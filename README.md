@@ -12,6 +12,10 @@
 - JavaScript
 - PokeAPI
 
+## Deploy :rocket:
+
+https://eduardobriceno89.github.io/Poke_API/
+
 ## Introducción
 
 Página web inspirada en una PokeDex del famoso videojuego PokéMon. Esta página va enfocada a toda persona fanática de Pokémon e igualmente, para aquellos que van empezando en este mundo y quiere conocer los tipo de Pokemones que existen.
