@@ -4,7 +4,7 @@
 
 - José Eduardo Briceño Brizuela
 - Héctor Adrían Lara López
-- Ángel Alexis Cernas Tapia
+- Ángel Alexis Cernas Hernández
 
 ## Tecnologías implementadas
 - HTML5
